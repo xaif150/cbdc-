@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">instagram_login</string>
+    <string-array name="Blood_group">
+        <item>Select blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="thana">
+        <item>Select thana</item>
+        <item> Cox\'s Bazar Sadar </item>
+        <item> Ramu </item>
+        <item> Ukhia </item>
+        <item> Chakaria </item>
+        <item> Teknaf </item>
+        <item> Pekua</item>
+        <item> Kutubdia </item>
+        <item> Maheshkhali </item>
+    </string-array>
+    <string-array name="district">
+        <item> Cox\'s Bazar </item>
+    </string-array>
+    <string-array name="Organisation">
+        <item> Cox\'s bazar blood donating club </item>
+    </string-array>
+</resources>
